@@ -268,7 +268,7 @@ function addContact(contact){
     headers: {
         'Content-Type': 'application/json'
     },
-    body: JSON.stringify(contact.address)
+    body: JSON.stringify(contact.addresses)
   })
   .then(function (response) {
     return response.json()

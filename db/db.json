@@ -4,7 +4,7 @@
       "id": 1,
       "firstName": "Boris",
       "lastName": "Johnson",
-      "blockContact": true,
+      "blockContat": true,
       "addressId": 1
     },
     {
